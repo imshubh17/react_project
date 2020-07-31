@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/imshubh17/react_project/issues"
   },
-  "homepage": "https://github.com/imshubh17/react_project#readme"
+  "homepage": "https://github.com/imshubh17/react_project#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4"
+  }
 }
