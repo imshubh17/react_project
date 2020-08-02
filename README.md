@@ -33,6 +33,5 @@ npm install
   ```
   in Browser
   **http://localhost:3000/**
-
-========
+---- 
 ![ToDo App](https://github.com/imshubh17/Projects/blob/master/images/New%20folder/todoapplication.PNG "main page")
